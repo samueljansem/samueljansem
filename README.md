@@ -1,4 +1,4 @@
-# Samuel Jansem [![Linkedin Badge](https://img.shields.io/badge/-samueljansem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-j-8029b895)](https://www.linkedin.com/in/samuel-j-8029b895/) [![Gmail Badge](https://img.shields.io/badge/-contato@samueljansem.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@samueljansem.dev)](mailto:contato@samueljansem.dev)
+# Samuel Jansem [![Linkedin Badge](https://img.shields.io/badge/-samueljansem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-j-8029b895)](https://www.linkedin.com/in/samuel-j-8029b895/) [![Gmail Badge](https://img.shields.io/badge/-hire@samueljansem.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hire@samueljansem.dev)](mailto:hire@samueljansem.dev)
 
 <div style="display: block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljansem&layout=compact&theme=dark&title_color=268bd2" alt="Most used languages" width="350" height="165" />
