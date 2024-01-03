@@ -10,6 +10,7 @@
 <section>
     <img alt=".NET" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img alt="C#" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+    <img alt="Django" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
     <img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
     <img alt="Typescript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
     <img alt="Javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
